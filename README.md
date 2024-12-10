@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zaurusman
 - 👀 interested in AI applications
-- 🌱 a CS student
 - 💞️ looking to collaborate on any project
 - 📫 business contact via: yotamtsa@gmail.com
 
